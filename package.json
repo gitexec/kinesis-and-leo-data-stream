@@ -1,0 +1,17 @@
+{
+  "name": "leo-bus-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws": "0.0.3-2",
+    "aws-sdk": "^2.308.0",
+    "bluebird": "^3.5.2",
+    "faker": "^4.1.0"
+  }
+}
